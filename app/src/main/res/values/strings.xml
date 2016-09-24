@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz_Application</string>
+    <string name="text_true">True</string>
+    <string name="text_false">False</string>
+    <string name="question">Is Islamabad a capital of Pakistan ? </string>
+    <string name="toast_true">Correct Answer</string>
+    <string name="toast_flase">Incorrect Answer</string>
+    <string name="next_button">Next Question</string>
+    <string name="question_ocean">Is Pacific Ocean Larger than the Atlantic Ocean ?</string>
+    <string name="question_mideast">Suez Canal Connects Red Sea and Indian Ocean ?</string>
+    <string name="question_africa">Source of Nile River Is in Egypt ?</string>
+    <string name="question_america">Amazon river is the longest river of America ?</string>
+    <string name="question_asia">Lake Baikal is the deepest fresh water lake ?</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="warning_text">Are You Sure Want To Do This?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="judgment_toast">Cheating Is Wrong!</string>
+</resources>
